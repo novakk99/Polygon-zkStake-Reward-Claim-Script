@@ -1,0 +1,7 @@
+Replace the placeholders with the actual staking contract address, contract ABI, and user's Ethereum address. Additionally, replace "your-private-key" with the user's private key.
+
+Ensure that you have the Web3 dependency installed. You can install it by running the command npm install web3.
+
+Please exercise caution and ensure that the staking contract address and user's staking information are accurate before executing the script. Make sure you have a valid private key to sign the transaction and claim the rewards.
+
+Note that this script serves as an example and may require customization based on your specific staking contract or desired transaction parameters.
